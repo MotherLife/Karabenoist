@@ -1,6 +1,6 @@
 Hi there, I'm Kara!👋
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=KaraBenoist&show_icons=true&theme=radical" />
+<img align="left" alt="Radical" src="https://github-readme-stats.vercel.app/api?username=KaraBenoist&show_icons=true&theme=radical" />
 
 Programming Language's I Know.
 
@@ -31,3 +31,7 @@ Programming Language's I Know.
 <img align="left" alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
 <img align="left" alt="Windows Terminal" src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+
+Favorite Gaming Consoles
+
+<img align="left" alt="Switch" src="https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" />

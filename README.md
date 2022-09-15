@@ -33,5 +33,4 @@ Programming Language's I Know.
 <img align="left" alt="Windows Terminal" src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
 
 Favorite Gaming Consoles
-
 <img align="left" alt="Switch" src="https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" />

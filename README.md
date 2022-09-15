@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kara</h1>
-<h3 align="center">Boundary Break Developer</h3>
 
+<img align="center" width=59 src="https://static.wikia.nocookie.net/toontownrewritten/images/1/14/ToontownTeam.png/revision/latest/scale-to-width-down/1000?cb=20200914220324" />
+
+<h3 align="center">Boundary Break Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karabenoist&label=Profile%20views&color=0e75b6&style=flat" alt="karabenoist" /> </p>
+
+<img
 
 - 🔭 I’m currently working on **ToonTown Updates DB V.4.19.2**
 

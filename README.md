@@ -5,8 +5,6 @@
 <h3 align="center">Boundary Break Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karabenoist&label=Profile%20views&color=0e75b6&style=flat" alt="karabenoist" /> </p>
 
-<img
-
 - 🔭 I’m currently working on **ToonTown Updates DB V.4.19.2**
 
 - 🌱 I’m currently learning **Deep ClientSide-ServerSide**

@@ -30,7 +30,7 @@ Programming Language's I Know.
 
 <img align="left" alt="Windows Terminal" src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
 
-Game Consoles.
+Consoles.
 
 <img align="left" alt="3DS" src="https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white" />
 
